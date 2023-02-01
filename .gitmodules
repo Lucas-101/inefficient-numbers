@@ -1,3 +1,6 @@
 [submodule "tri-num0"]
 	path = tri-num0
 	url = https://github.com/Lucas-101/tri-num0
+[submodule "square-numbers"]
+	path = square-numbers
+	url = https://github.com/Lucas-101/square-numbers
